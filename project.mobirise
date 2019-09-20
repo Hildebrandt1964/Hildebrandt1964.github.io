@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Süplinger_Website_Neubau",
-    "currentPage": "index.html",
+    "currentPage": "Willkommen.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -1139,10 +1139,10 @@
         }
       ]
     },
-    "index.html": {
+    "Willkommen.html": {
       "settings": {
         "main": true,
-        "title": "Willkommen",
+        "title": "Süplinger",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
