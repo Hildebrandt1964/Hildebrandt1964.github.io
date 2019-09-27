@@ -15,10 +15,10 @@
         "mainFont": "Poppins",
         "display1Font": "Poppins",
         "display1Size": 3.2,
-        "display2Font": "American Typewriter Regular",
+        "display2Font": "KGBrokenVesselsSketch",
         "display2Size": 2,
-        "display5Font": "KGBrokenVesselsSketch",
-        "display5Size": "1.8",
+        "display5Font": "Nanum Gothic",
+        "display5Size": "1",
         "display7Font": "Rubik",
         "display7Size": 1,
         "display4Font": "Poppins",
@@ -59,6 +59,11 @@
         "name": "American Typewriter Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/American%20Typewriter%20Regular/font.ttf"
+      },
+      {
+        "css": "'Nanum Gothic', sans-serif",
+        "name": "Nanum Gothic",
+        "url": "https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800"
       }
     ],
     "cookiesAlert": {
